@@ -1,0 +1,16 @@
+D:\jojodev1\OneDrive - San Antonio Clubhouse\Projects\Dredis.Extensions\Storage\Dredis.Extensions.Storage.SqlServer\obj\Debug\net10.0\Dredis.Extensions.Storage.SqlServer.csproj.AssemblyReference.cache
+D:\jojodev1\OneDrive - San Antonio Clubhouse\Projects\Dredis.Extensions\Storage\Dredis.Extensions.Storage.SqlServer\obj\Debug\net10.0\Dredis.Extensions.Storage.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\jojodev1\OneDrive - San Antonio Clubhouse\Projects\Dredis.Extensions\Storage\Dredis.Extensions.Storage.SqlServer\obj\Debug\net10.0\Dredis.Extensions.Storage.SqlServer.AssemblyInfoInputs.cache
+D:\jojodev1\OneDrive - San Antonio Clubhouse\Projects\Dredis.Extensions\Storage\Dredis.Extensions.Storage.SqlServer\obj\Debug\net10.0\Dredis.Extensions.Storage.SqlServer.AssemblyInfo.cs
+D:\jojodev1\OneDrive - San Antonio Clubhouse\Projects\Dredis.Extensions\Storage\Dredis.Extensions.Storage.SqlServer\obj\Debug\net10.0\Dredis.Extensions.Storage.SqlServer.csproj.CoreCompileInputs.cache
+D:\jojodev1\OneDrive - San Antonio Clubhouse\Projects\Dredis.Extensions\Storage\Dredis.Extensions.Storage.SqlServer\obj\Debug\net10.0\Dredis.Extensions.Storage.SqlServer.sourcelink.json
+D:\jojodev1\OneDrive - San Antonio Clubhouse\Projects\Dredis.Extensions\Storage\Dredis.Extensions.Storage.SqlServer\bin\Debug\net10.0\Dredis.Extensions.Storage.SqlServer.deps.json
+D:\jojodev1\OneDrive - San Antonio Clubhouse\Projects\Dredis.Extensions\Storage\Dredis.Extensions.Storage.SqlServer\bin\Debug\net10.0\Dredis.Extensions.Storage.SqlServer.dll
+D:\jojodev1\OneDrive - San Antonio Clubhouse\Projects\Dredis.Extensions\Storage\Dredis.Extensions.Storage.SqlServer\bin\Debug\net10.0\Dredis.Extensions.Storage.SqlServer.pdb
+D:\jojodev1\OneDrive - San Antonio Clubhouse\Projects\Dredis.Extensions\Storage\Dredis.Extensions.Storage.SqlServer\bin\Debug\net10.0\Dredis.Abstractions.Storage.dll
+D:\jojodev1\OneDrive - San Antonio Clubhouse\Projects\Dredis.Extensions\Storage\Dredis.Extensions.Storage.SqlServer\bin\Debug\net10.0\Dredis.Abstractions.Storage.pdb
+D:\jojodev1\OneDrive - San Antonio Clubhouse\Projects\Dredis.Extensions\Storage\Dredis.Extensions.Storage.SqlServer\obj\Debug\net10.0\Dredis.E.B0ED7576.Up2Date
+D:\jojodev1\OneDrive - San Antonio Clubhouse\Projects\Dredis.Extensions\Storage\Dredis.Extensions.Storage.SqlServer\obj\Debug\net10.0\Dredis.Extensions.Storage.SqlServer.dll
+D:\jojodev1\OneDrive - San Antonio Clubhouse\Projects\Dredis.Extensions\Storage\Dredis.Extensions.Storage.SqlServer\obj\Debug\net10.0\refint\Dredis.Extensions.Storage.SqlServer.dll
+D:\jojodev1\OneDrive - San Antonio Clubhouse\Projects\Dredis.Extensions\Storage\Dredis.Extensions.Storage.SqlServer\obj\Debug\net10.0\Dredis.Extensions.Storage.SqlServer.pdb
+D:\jojodev1\OneDrive - San Antonio Clubhouse\Projects\Dredis.Extensions\Storage\Dredis.Extensions.Storage.SqlServer\obj\Debug\net10.0\ref\Dredis.Extensions.Storage.SqlServer.dll
